@@ -1,4 +1,4 @@
-<h1><b>LITTLE PRESENT</b></h1>
+<h1><b>LITTLE PRESENT 🎁</b></h1>
 <h3>Objetivo:</h3>
 <ul>
 <li>Que los usuarios encuentren el regalo perfecto para la ocasión que elija.</li>
@@ -8,9 +8,9 @@
 <h3>Problemas del usuario:</h3> 
 <p>Las personas desean obsequiar algún regalo para cada fecha especial.Teniendo en cuenta el contexto actual, muchas personas buscan no exponerse ante los posibles contagios de la covid-19, es por ello que buscan distintas alternativas en diferentes plataformas para conseguir distintos regalos sin el temor a contagiarse.</p>
 <h3>Público objetivo:</h3>
-<p>Nuestro público objetivo son personas de cualquier condición que residan en Perú, Lima y que deseen un regalo personalizable de cualquier tipo para San Valentín, Día de la Madre, Día del Padre y cumpleaños.</p>
+<p>Nuestro público objetivo son personas de cualquier condición que residan en Perú, Lima y que deseen un regalo personalizable de cualquier tipo.</p>
 <h3>Definición del emprendimiento:</h3>
-<p>Little Present es una tienda web que se dedica a vender regalos personalizables para San Valentín, Día de la Madre, Día del Padre y cumpleaños a un precio asequible y con la mejor atención posible vía web con el propósito de evitar exposiciones a la Covid-19.</p>
+<p>Little Present es una tienda web que se dedica a vender regalos personalizables para San Valentín, Día de la Madre, Día del Padre y cumpleaños a un precio accesible y con la mejor atención posible vía web con el propósito de evitar exposiciones a la Covid-19.</p>
 <h3><b>Prototipo:</b></h3>
 <p align="center">
   <img src="img/WhatsApp Image 2022-02-07 at 18.07.25.jpeg" width="600"/>
