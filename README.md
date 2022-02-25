@@ -22,10 +22,10 @@
 <p>Cumple los objetivos propuestos debido a que nuestra página permite personalizar los regalos según las preferencias del usuario, convirtiéndolo en el regalo perfecto para tal ocasión, todo a un precio accesible. Además, las secciones y filtros de nuestra página posibilitan al usuario un ambiente de compra ordenado, seguro y fácil de manejar.</p>
 <h3>¿Cómo nuestro emprendimiento resuelve los problemas del usuario?</h3>
 <p>Al ser un emprendimiento virtual, ofrece el mismo servicio que un canal presencial, la única diferencia es que no expone a los usuarios a contraer o propagar el covid-19. Asimismo, una característica que resalta en nuestro emprendimiento es que está abierto 24/7 como también ofrece el servicio de atención al cliente.<p>
-<p><b>LINK LOOM: </b><a href="https://www.loom.com/share/bc22f60428e447cca799880fa272d1c8"> https://www.loom.com/share/bc22f60428e447cca799880fa272d1c8</a> </p>
-<p><b>LINK DRIVE:</b><a href="https://drive.google.com/drive/folders/1yaN9wE9CkwR_RaWKuE7wR1481PAa_n-R?usp=sharing"> https://drive.google.com/drive/folders/1yaN9wE9CkwR_RaWKuE7wR1481PAa_n-R?usp=sharing</a> </p>
+<p><b>LINK LOOM (Video que explica el readme): </b><a href="https://www.loom.com/share/bc22f60428e447cca799880fa272d1c8"> https://www.loom.com/share/bc22f60428e447cca799880fa272d1c8</a> </p>
+<p><b>LINK DRIVE (Avances de la tienda virtual):</b><a href="https://drive.google.com/drive/folders/1yaN9wE9CkwR_RaWKuE7wR1481PAa_n-R?usp=sharing"> https://drive.google.com/drive/folders/1yaN9wE9CkwR_RaWKuE7wR1481PAa_n-R?usp=sharing</a> </p>
 <p><b>LINK DE PÁGINA WORDPRESS:</b><a href="http://negoci351:hgjswhbW@www.negocio-prueba.com.mialias.net"> http://negoci351:hgjswhbW@www.negocio-prueba.com.mialias.net</a></p>
-<p><b>LINK POST MEDIUM:</b> <a href="https://medium.com/@zgutierrez_48080/little-present-87ea8e713d92"> https://medium.com/@zgutierrez_48080/little-present-87ea8e713d92</a> </p>
+<p><b>LINK POST MEDIUM (investigación al usuario y el proceso de la pagina):</b> <a href="https://medium.com/@zgutierrez_48080/little-present-87ea8e713d92"> https://medium.com/@zgutierrez_48080/little-present-87ea8e713d92</a> </p>
 <h2><b>Design Thinking</b></h2></p>
 <h2>Lean start up</h2>
 <p align="center">
